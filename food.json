@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tii Gavo",
+        "address": "525 Boynton Canyon Road Tii Gavo, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.671416008761!2d-111.85599058440206!3d34.91469457923423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da00ecc459147%3A0x1ea978b74586c154!2sTii%20Gavo!5e0!3m2!1sen!2sus!4v1648155445298!5m2!1sen!2sus",
+        "info": "A casual Southwestern restaurant."
+    },
+    {
+        "name": "Elote Cafe",
+        "address": "350 Jordan Rd, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.3707265125536!2d-111.76304928440278!3d34.87203588152939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da374ad73e839%3A0x858410f041c76611!2sElote%20Cafe!5e0!3m2!1sen!2sus!4v1648155562800!5m2!1sen!2sus",
+        "info": "A modern Mexican & Southwestern restaurant."
+    },
+    {
+        "name": "Cowboy Club Grille & Spirits",
+        "address": "241 N State Rte 89A, Sedona, AZ 86336",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.4692426175657!2d-111.76366468440293!3d34.869561381662656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e29bfc4a87%3A0xaca6c8d9b998ffa4!2sCowboy%20Club%20Grille%20%26%20Spirits!5e0!3m2!1sen!2sus!4v1648155691482!5m2!1sen!2sus",
+        "info": "Casual steahouse with Southwestern fare."
+    },
+    {
+        "name": "The Hudson",
+        "address": "671 AZ-179 ste d, Sedona, AZ 86336 (Located in: HillSide Sedona Shopping Center).",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.915564090884!2d-111.76498228440309!3d34.85834888226557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da1559d466735%3A0xb8b0fd8587855e29!2sThe%20Hudson!5e0!3m2!1sen!2sus!4v1648155791188!5m2!1sen!2sus",
+        "info": "Neighborhood restaurant serving New American fare."
+    }
+]
